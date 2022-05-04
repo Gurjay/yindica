@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["Bgaq"],{Bgaq:function(n,o,p){n.exports=p.p+"static/img/monitor.2c892eb.png"}}]);
