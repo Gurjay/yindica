@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["XyNR"],{XyNR:function(n,p,o){n.exports=o.p+"static/img/nb.bc53d18.png"}}]);

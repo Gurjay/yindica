@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["IbcS"],{IbcS:function(c,e,a){"use strict";a.r(e),e.default={input:"blur,change",select:"change",radio:"change",checkbox:"change",cascader:"input",textarea:"blur,change"}}}]);
