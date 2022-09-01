@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>堆积面积图</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="900" height="643.359375" rx="5.2734375"></rect>
+        <filter x="-4.3%" y="-6.1%" width="108.7%" height="112.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0841892483 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="6.60368203%" id="linearGradient-3">
+            <stop stop-color="#3B66EF" stop-opacity="0" offset="0.0273164336%"></stop>
+            <stop stop-color="#CAFBFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="6.60368203%" id="linearGradient-4">
+            <stop stop-color="#3B66EF" stop-opacity="0" offset="0.0273164336%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+        <filter id="filter-5">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.047059 0 0 0 0 0.450980 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="堆积面积图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#171A1D" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="编组-3" transform="translate(62.000000, 190.000000)">
+            <g id="矩形" opacity="0.0500817602">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#3FA5FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="编组-2" transform="translate(90.933594, 224.535356)">
+                <path d="M2.27257388,161.927837 C56.7506854,118.738833 105.972623,97.1443314 149.938388,97.1443314 C216.802831,97.1443314 243.1236,-13.0986935 358.256729,44.4254714 C393.975827,62.2718661 421.662215,80.984293 446.126146,76 C500.516642,64.9184546 535.273164,0.464643853 580.725868,0.464643853 C624.136557,0.464643853 677.793792,25.4675289 741.697574,75.473299 C743.150855,76.6105088 744,78.3532023 744,80.1985402 L744,309.464644 C744,312.778352 741.313708,315.464644 738,315.464644 L6,315.464644 C2.6862915,315.464644 3.13090382e-14,312.778352 0,309.464644 L0,166.629569 C6.01939103e-07,164.797566 0.836975959,163.065946 2.27257388,161.927837 Z" id="矩形" fill="url(#linearGradient-3)" opacity="0.5"></path>
+                <path d="M5.75,164.5 C60.4318194,125.394787 111.434797,103.093283 158.758932,97.5954875 C214.516281,91.1179792 227.391331,41.5414715 289.410331,26.8639091 C351.42933,12.1863467 377.698534,82.5255126 436.595642,76 C502.194359,68.7319817 509.832918,6.95382416 571.724227,0.466801745 C612.985099,-3.85787987 668.49369,21.8669262 738.25,77.64122" id="路径-21" stroke="#CAFBFE" stroke-width="10" stroke-linecap="round"></path>
+            </g>
+            <g id="编组-2备份" transform="translate(462.933594, 420.535356) scale(-1, 1) translate(-462.933594, -420.535356) translate(90.933594, 300.535356)">
+                <path d="M0,35.0655017 C31.9886613,57.156058 80.8126768,72.7891054 146.472046,81.9646439 C194.041226,88.612177 246.277225,45.3645385 294.952468,49.5087554 C347.056315,53.9448843 395.37741,105.542142 438.90209,105.542142 C523.087384,105.542142 513.790431,0 586.868865,0 C635.345052,0 687.442962,47.0430029 743.162594,141.129009 C743.710769,142.054639 744,143.110627 744,144.1864 L744,233.732322 C744,237.04603 741.313708,239.732322 738,239.732322 L6,239.732322 C2.6862915,239.732322 1.57050379e-14,237.04603 0,233.732322 L0,35.0655017 L0,35.0655017 Z" id="矩形" fill="url(#linearGradient-4)" opacity="0.5"></path>
+                <path d="M5.75,32.2971192 C60.6104706,68.1576998 111.702773,84.7135414 159.026908,81.9646439 C214.784258,78.7258897 218.976438,56.9651375 280.995437,49.6263563 C343.014437,42.2875751 380.004983,108.804899 438.90209,105.542142 C504.500808,101.908133 520.456367,3.9537786 582.347676,0.710267396 C623.608549,-1.45207341 675.57599,43.6846512 738.25,136.120441" id="路径-21" stroke="#0C73FF" stroke-width="10" stroke-linecap="round"></path>
+            </g>
+            <g filter="url(#filter-5)" font-family="PingFangSC-Medium, PingFang SC" font-size="17" font-weight="400" id="编组-4">
+                <g transform="translate(30.000000, 215.706858)">
+                    <text id="100" fill="#CAFBFE">
+                        <tspan x="0.332" y="18">100</tspan>
+                    </text>
+                    <text id="50" fill="#CAFBFE">
+                        <tspan x="8.3" y="181">50</tspan>
+                    </text>
+                    <text id="0" fill="#CAFBFE">
+                        <tspan x="19.4" y="332">0</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(594.933594, 133.648438)" fill="#3FA5FF">
+                <rect id="矩形" opacity="0.400000006" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <g id="编组备份" transform="translate(312.933594, 133.648438)" fill="#3FA5FF">
+                <rect id="矩形" opacity="0.400000006" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <circle id="椭圆形" fill="#3FA5FF" opacity="0.5" cx="56.25" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份" fill="#3FA5FF" opacity="0.5" cx="100.195312" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份-2" fill="#3FA5FF" opacity="0.5" cx="144.140625" cy="45.2943645" r="13.1835938"></circle>
+        </g>
+    </g>
+</svg>

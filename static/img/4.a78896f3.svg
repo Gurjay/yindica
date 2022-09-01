@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>雷达图</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="900" height="643.359375" rx="5.2734375"></rect>
+        <filter x="-4.3%" y="-6.1%" width="108.7%" height="112.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0841892483 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="雷达图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#171A1D" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="编组-3" transform="translate(62.000000, 190.000000)">
+            <g id="矩形" opacity="0.0500817602">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#0C73FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="雷达图" transform="translate(228.000000, 111.000000)" fill="#0C73FF" fill-rule="nonzero">
+                <polygon id="路径" opacity="0.200000003" points="207.327964 0.93446506 443.454103 155.883641 354.872388 421.902254 96.5324525 421.902254 0.272058686 163.287932"></polygon>
+                <polygon id="路径" opacity="0.600000024" points="74.3186571 170.693007 140.686117 325.916109 325.528227 392.283569 414.109943 155.883503 171.676136 123.522472"></polygon>
+                <polygon id="路径" points="214.732716 67.3022474 377.086643 170.693007 103.937665 377.474525 118.47269 192.906802"></polygon>
+            </g>
+            <g id="编组" transform="translate(638.000000, 528.359375)" fill="#3FA5FF">
+                <rect id="矩形" opacity="0.400000006" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <g id="编组备份" transform="translate(638.000000, 584.359375)" fill="#3FA5FF">
+                <rect id="矩形" opacity="0.400000006" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <circle id="椭圆形" fill="#3FA5FF" opacity="0.5" cx="56.25" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份" fill="#3FA5FF" opacity="0.5" cx="100.195312" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份-2" fill="#3FA5FF" opacity="0.5" cx="144.140625" cy="45.2943645" r="13.1835938"></circle>
+        </g>
+    </g>
+</svg>

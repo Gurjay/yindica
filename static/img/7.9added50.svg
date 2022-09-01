@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>折线图</title>
+    <defs>
+        <rect id="path-1" x="0" y="13" width="900" height="643.359375" rx="5.2734375"></rect>
+        <filter x="-4.3%" y="-6.1%" width="108.7%" height="112.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0841892483 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polyline id="path-3" points="48.6791578 428.258327 294.725569 537.570621 404.518775 258.382095 606.326856 154.429379 766.091587 282.625357"></polyline>
+        <filter x="-9.8%" y="-16.3%" width="119.6%" height="136.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="7" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="7" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.149019608   0 0 0 0 0.57254902   0 0 0 0 0.968627451  0 0 0 0.333834135 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polyline id="path-5" points="8.8046875 293.160254 260.540033 405 372.87181 119.356248 579.345974 13 742.804688 144.160047"></polyline>
+        <filter x="-9.6%" y="-15.9%" width="119.2%" height="135.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="7" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="7" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.149019608   0 0 0 0 0.57254902   0 0 0 0 0.968627451  0 0 0 0.333834135 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="折线图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#171A1D" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="编组-3" transform="translate(62.000000, 177.000000)">
+            <g id="矩形" opacity="0.0500817602">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#3FA5FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="编组-2" opacity="0.5" transform="translate(452.126540, 380.443372) rotate(-5.000000) translate(-452.126540, -380.443372) translate(45.126540, 34.443372)">
+                <g id="路径-20备份" stroke-linecap="round" transform="translate(407.385373, 346.000000) rotate(-330.000000) translate(-407.385373, -346.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use stroke="#0C73FF" stroke-width="10" xlink:href="#path-3"></use>
+                </g>
+                <circle id="椭圆形备份-7" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="213.859949" cy="443.740113" r="20.1689013"></circle>
+                <circle id="椭圆形备份-8" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="453.323226" cy="269.373002" r="20.1689013"></circle>
+                <circle id="椭圆形备份-9" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="677.148084" cy="282.079217" r="20.1689013"></circle>
+                <circle id="椭圆形备份-10" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="753.385373" cy="475.60464" r="20.1689013"></circle>
+                <circle id="椭圆形备份-11" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="52.779661" cy="233.432243" r="20.1689013"></circle>
+            </g>
+            <g id="编组-4" transform="translate(74.195312, 169.648437)">
+                <g id="路径-20" stroke-linecap="round">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use stroke="#0C73FF" stroke-width="10" xlink:href="#path-5"></use>
+                </g>
+                <circle id="椭圆形备份-2" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="375.804688" cy="117.601279" r="20.4626866"></circle>
+                <circle id="椭圆形备份-3" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="579.804688" cy="13" r="20.4626866"></circle>
+                <circle id="椭圆形备份-4" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="735.804688" cy="136.601279" r="20.4626866"></circle>
+                <circle id="椭圆形备份-5" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="255.804688" cy="397" r="20.4626866"></circle>
+                <circle id="椭圆形备份-6" stroke="#0C73FF" stroke-width="14.9253731" fill="#171F27" cx="13" cy="296" r="20.4626866"></circle>
+            </g>
+            <g id="编组" transform="translate(75.933594, 146.648438)" fill="#3FA5FF">
+                <rect id="矩形" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <g id="编组备份" transform="translate(75.933594, 195.648438)" fill="#3FA5FF">
+                <rect id="矩形" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <circle id="椭圆形" fill="#3FA5FF" opacity="0.5" cx="56.25" cy="58.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份" fill="#3FA5FF" opacity="0.5" cx="100.195312" cy="58.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份-2" fill="#3FA5FF" opacity="0.5" cx="144.140625" cy="58.2943645" r="13.1835938"></circle>
+        </g>
+    </g>
+</svg>
