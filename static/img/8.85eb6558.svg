@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>柱状图</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="900" height="643.359375" rx="5.2734375"></rect>
+        <filter x="-4.3%" y="-6.1%" width="108.7%" height="112.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0841892483 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.047059 0 0 0 0 0.450980 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#1CABFF" offset="0%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#1CABFF" offset="0%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#1CABFF" offset="0%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#1CABFF" offset="0%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#1CABFF" offset="0%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#1CABFF" offset="0%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#1CABFF" offset="0%"></stop>
+            <stop stop-color="#0C73FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="柱状图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#171A1D" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="编组-3" transform="translate(62.000000, 190.000000)">
+            <g id="矩形" opacity="0.0500817602">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#3FA5FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g filter="url(#filter-3)" font-family="PingFangSC-Medium, PingFang SC" font-size="17" font-weight="400" id="编组-4">
+                <g transform="translate(32.850460, 249.148438)">
+                    <text id="100" fill="#CAFBFE">
+                        <tspan x="0.332" y="18">100</tspan>
+                    </text>
+                    <text id="50" fill="#CAFBFE">
+                        <tspan x="8.3" y="181">50</tspan>
+                    </text>
+                    <text id="0" fill="#CAFBFE">
+                        <tspan x="19.4" y="332">0</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组" transform="translate(594.933594, 133.648438)" fill="#3FA5FF">
+                <rect id="矩形" opacity="0.400000006" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <g id="编组备份" transform="translate(594.933594, 182.648438)" fill="#3FA5FF">
+                <rect id="矩形" opacity="0.400000006" x="44" y="0" width="187.066406" height="28.6484375" rx="6"></rect>
+                <rect id="矩形备份" x="0" y="0" width="28" height="28" rx="6"></rect>
+            </g>
+            <g id="编组-2" transform="translate(95.957031, 273.648438)">
+                <rect id="矩形" fill="url(#linearGradient-4)" x="0" y="126" width="41.3671875" height="200" rx="6"></rect>
+                <rect id="矩形备份-2" fill="url(#linearGradient-5)" x="108.910807" y="0" width="41.3671875" height="326" rx="6"></rect>
+                <rect id="矩形备份-3" fill="url(#linearGradient-6)" x="217.821615" y="90" width="41.3671875" height="236" rx="6"></rect>
+                <rect id="矩形备份-4" fill="url(#linearGradient-7)" x="326.732422" y="42" width="41.3671875" height="284" rx="6"></rect>
+                <rect id="矩形备份-5" fill="url(#linearGradient-8)" x="435.643229" y="108" width="41.3671875" height="218" rx="6"></rect>
+                <rect id="矩形备份-6" fill="url(#linearGradient-9)" x="544.554036" y="163" width="41.3671875" height="163" rx="6"></rect>
+                <rect id="矩形备份-7" fill="url(#linearGradient-10)" x="653.464844" y="65" width="41.3671875" height="261" rx="6"></rect>
+            </g>
+            <circle id="椭圆形" fill="#3FA5FF" opacity="0.5" cx="56.25" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份" fill="#3FA5FF" opacity="0.5" cx="100.195312" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份-2" fill="#3FA5FF" opacity="0.5" cx="144.140625" cy="45.2943645" r="13.1835938"></circle>
+        </g>
+    </g>
+</svg>

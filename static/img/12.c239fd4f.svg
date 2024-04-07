@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1025px" height="1024px" viewBox="0 0 1025 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>静态素材2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="900" height="643.359375" rx="5.2734375"></rect>
+        <filter x="-4.3%" y="-6.1%" width="108.7%" height="112.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0841892483 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="静态素材2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 0.000000)">
+        <rect fill="#171A1D" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="编组-3" transform="translate(62.000000, 190.000000)">
+            <g id="矩形" opacity="0.0500817602">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#3FA5FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <rect id="矩形" fill="#0C73FF" transform="translate(450.000000, 359.491550) rotate(-315.000000) translate(-450.000000, -359.491550) " x="335.50845" y="245" width="228.983099" height="228.983099"></rect>
+            <rect id="矩形备份" fill="#0C73FF" opacity="0.600000024" transform="translate(275.294409, 359.491550) rotate(-315.000000) translate(-275.294409, -359.491550) " x="189.294409" y="273.49155" width="172" height="172"></rect>
+            <rect id="矩形备份-2" fill="#0C73FF" opacity="0.600000024" transform="translate(611.915502, 359.491550) rotate(-315.000000) translate(-611.915502, -359.491550) " x="525.915502" y="273.49155" width="172" height="172"></rect>
+            <rect id="矩形备份-3" fill="#0C73FF" opacity="0.300000012" transform="translate(756.915502, 359.491550) rotate(-315.000000) translate(-756.915502, -359.491550) " x="703.915502" y="306.49155" width="106" height="106"></rect>
+            <rect id="矩形备份-4" fill="#0C73FF" opacity="0.300000012" transform="translate(143.084498, 359.491550) rotate(-315.000000) translate(-143.084498, -359.491550) " x="90.0844976" y="306.49155" width="106" height="106"></rect>
+            <circle id="椭圆形" fill="#3FA5FF" opacity="0.5" cx="56.25" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份" fill="#3FA5FF" opacity="0.5" cx="100.195312" cy="45.2943645" r="13.1835938"></circle>
+            <circle id="椭圆形备份-2" fill="#3FA5FF" opacity="0.5" cx="144.140625" cy="45.2943645" r="13.1835938"></circle>
+        </g>
+    </g>
+</svg>
